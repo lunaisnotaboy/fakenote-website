@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Fakenote.js
 
-You can use the [editor on GitHub](https://github.com/lunaisnotaboy/fakenote-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Fakenote.js** is a library forked from [react-canvas-draw](https://github.com/embiem/react-canvas-draw), with the goal being to modify the original library in order to make the canvas and generated result similar to Nintendo's Flipnote Hatena.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who made this?
 
-### Markdown
+Flipnote.js is made by [@lunaisnotaboy](https://github.com/lunaisnotaboy).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Why?
 
-```markdown
-Syntax highlighted code block
+I did this because I needed a canvas that was easy-to-use and had a similar look and feel to Flipnote Studio's canvas.
 
-# Header 1
-## Header 2
-### Header 3
+### WHere can I find this?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lunaisnotaboy/fakenote-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Right now, this is located on [GitHub](https://github.com/lunaisnotaboy/fakenote), but ~~hopefully~~ it will be on NPM soon.
